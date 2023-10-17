@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\error 404\documents\visual studio 2015\projects\project2\project2\source.cpp(62): error C3861: 'Display_list': identifier not found
+c:\users\error 404\documents\visual studio 2015\projects\project2\project2\source.cpp(148): error C2872: 'stack': ambiguous symbol
+  c:\users\error 404\documents\visual studio 2015\projects\project2\project2\source.cpp(22): note: could be 'stack'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stack(17): note: or       'std::stack'
